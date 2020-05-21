@@ -12,7 +12,8 @@
     "react-reveal": "^1.2.2",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-vis": "^1.11.7"
   },
   "scripts": {
     "start": "react-scripts start",
